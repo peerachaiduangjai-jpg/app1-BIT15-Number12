@@ -7,7 +7,7 @@ export default function App(){
         // ใส่สไล์ตกตแ่ง
         <View style={myStyle.container}>
             {/* แสดงข้อความ */}
-            <Text style={myStyle.title}>peerachai</Text>
+            <Text style={myStyle.title}>peerachai Duangjai</Text>
 
             {/* แสดงค่าจากไฟล์ */}
             <Image source={require('@/assets/images/images.jpeg')}
